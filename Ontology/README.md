@@ -1,1 +1,1 @@
-
+This folder contains the core ontology developed for the project. The main file, Siti_Unesco_Italia.owl, includes the complete OWL 2 model created in Protégé, with all classes, object properties, data properties, individuals, and axioms representing the Italian UNESCO cultural and intangible heritage domain. Additional files provide the SWRL rules used for inference and the ontology metrics exported from Protégé.
